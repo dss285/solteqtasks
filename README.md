@@ -11,7 +11,9 @@ csv erottajana käytetty
 ```
 ;
 ```
-
+Päivitys 8.3.2022:
+csvTiedostot kansio gittiin, ei tullut valmiina.
+Ja pitää hyväksyä self-signed certificate, kun käynnistää backendin, http rajapinnassa ei olisi tätä ongelmaa.
 
 # Miten muuttaisit toteutusta, jos
 ## Päivämääräväliä halutaan muokata
