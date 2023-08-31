@@ -1,0 +1,9 @@
+#catsContainer, #dogsContainer {
+    display: flex;
+    flex-direction: row;
+    flex-basis:25%;
+    margin:50px;
+}
+#catsContainer > *, #dogsContainer > * {
+    margin-right:10px;
+}
